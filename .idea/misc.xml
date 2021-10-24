@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable/ic__email_cinza.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable/ic_cadeado_cinza.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable/ic_confirmar_white_24.xml" value="0.125" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable/ic_outline_remove_24.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/drawable/ic_pessoa_cinza_24.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/Organizze_clone.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/activity_cadastro.xml" value="0.25" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/activity_despesas.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/activity_esqueci_senha.xml" value="0.33" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/activity_login.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/activity_principal.xml" value="0.2" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/activity_receitas.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/adapter_movimentacao.xml" value="0.33" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/content_principal.xml" value="0.22" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/fragment_organizze_clone.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/intro_1.xml" value="0.5" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/intro_2.xml" value="0.33" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/intro_3.xml" value="0.33" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/intro_4.xml" value="0.33" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/intro_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/layout/recycler_main.xml" value="0.25" />
+        <entry key="..\:/Users/Luiz.DESKTOP/AndroidStudioProjects/OrganizzeClone/app/src/main/res/menu/menu_principal.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
